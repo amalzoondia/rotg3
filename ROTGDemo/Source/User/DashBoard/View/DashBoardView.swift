@@ -53,7 +53,7 @@ struct DashBoardView: View {
                 
             }
             
-            Text("Home")
+            Text("Homee")
                 .font(.custom("Poppins-SemiBold", size: 19.3))
                 .foregroundColor(Color.clrDarkIndigo)
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
